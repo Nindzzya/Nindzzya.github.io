@@ -1,3 +1,3 @@
 # Заголовок
 Сайт
-[Урок 12](Nindzzya.github.io/lesson_12/index.html "Описание")
+[Урок 12](https://github.com/Nindzzya/Nindzzya.github.io "Описание")
